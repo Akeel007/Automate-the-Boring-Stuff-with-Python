@@ -9,7 +9,7 @@ upperRegex = re.compile(r'[A-Z]+')# Check if atleast one upper case letter
 digitRegex = re.compile(r'[0-9]+') # Check if at least one digit.
 
 # Enter password text
-passwordText = input('Enter Password: ')
+passwordText = input('Enter Password: ') # Enter password text 
 
 ''' TODO: Enter conditions to see if password passes all checks and then return
 a message if it does.'''
